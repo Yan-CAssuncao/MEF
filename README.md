@@ -1,5 +1,5 @@
 # MEF
-Códigos usados para prática de Método dos Elementos Finitos. O proposito de tal repositório é a prática
+Códigos usados para prática de Método dos Elementos Finitos. O propósito de tal repositório é a prática
 e o aperfeiçoamento das implementações. 
 
 ## Licença
