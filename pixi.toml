@@ -1,0 +1,20 @@
+[workspace]
+authors = ["Yan Costa de Assunção <276109091+Yan-CAssuncao@users.noreply.github.com>"]
+channels = ["conda-forge"]
+name = "MEF"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+fenics-dolfinx = ">=0.11,<0.12"
+python = ">=3.14.6,<3.15"
+mpi4py = ">=4.1.2,<5"
+numpy = ">=2.5.3,<3"
+scipy = ">=1.18.1,<2"
+matplotlib = ">=3.11.2,<4"
+jupyter = ">=1.1.1,<2"
+ipykernel = ">=7.3.0,<8"
+pyvista = ">=0.49.0,<0.50"
+trame-pyvista = ">=0.1.7,<0.2"
